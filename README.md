@@ -29,6 +29,6 @@ Create Database named “shop”.
 Import database shop.sql.
 Open Your browser put inside URL:
 “http://localhost/cart/”
-user login details:
+User login details:
 Login Id: archit@gmail.com
 Password:123456789
