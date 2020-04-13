@@ -23,12 +23,21 @@ LAMP Server
 #Installation Steps
 
 Put this file inside htdocs(if XAMPP installed)
+
 Database Configuration:
+
 Open phpmyadmin
+
 Create Database named “shop”.
+
 Import database shop.sql.
+
 Open Your browser put inside URL:
+
 “http://localhost/cart/”
+
 User login details:
+
 Login Id: archit@gmail.com
+
 Password:123456789
